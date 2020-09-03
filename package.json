@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/astoiano13/note-taker/issues"
   },
-  "homepage": "https://github.com/astoiano13/note-taker#readme"
+  "homepage": "https://github.com/astoiano13/note-taker#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
 }

@@ -1,3 +1,12 @@
+var jdb = require("db-json");
+var db = new jdb.Database([{"title":"Test Title","text":"Test text"}])
+var PORT = 1337
+var app = express()
+
+
+
+
+
 const $noteTitle = $(".note-title");
 const $noteText = $(".note-textarea");
 const $saveNoteBtn = $(".save-note");
